@@ -11,5 +11,6 @@ public class Hello {
         System.out.println("Now it's ready to share on GitHUb");
         System.out.println("Now Commit,  Comment, Commit and Push");
         System.out.println("One more try");
+        System.out.println("Second one more try");
     }
 }
