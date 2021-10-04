@@ -3,7 +3,8 @@ public class work2 {
         System.out.println("Created work2 file");
         System.out.println("Updated file and first commit");
         System.out.println("Updated file and second second commit");
-        System.out.println("Updated file and third second commit");
+        System.out.println("Updated file and third commit");
+        System.out.println("Updated file and forth commit");
 
     }
 }
