@@ -5,5 +5,6 @@ public class SamostayatelnayaRabota {
         System.out.println("Hello");
         System.out.println("Carrot");
         System.out.println("Cabbage");
+        System.out.println("Ice cream");
     }
 }
