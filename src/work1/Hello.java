@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("Now its time to send to GitHub");
         System.out.println("Do some changes in code");
         System.out.println("Now it's ready to share on GitHUb");
+        System.out.println("Now Commit,  Comment, Commit and Push");
     }
 }
