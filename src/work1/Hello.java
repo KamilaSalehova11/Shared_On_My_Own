@@ -14,5 +14,6 @@ public class Hello {
         System.out.println("Second one more try");
         System.out.println("Third one more try");
         System.out.println("Irina");
+        System.out.println("Irina");
     }
 }
